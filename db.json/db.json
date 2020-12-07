@@ -1,0 +1,84 @@
+{
+  "bikes": [
+    {
+      "id": 0,
+      "name": "Royal Enfield Classic 350",
+      "image": "image/royal-enfield-classic-350.jpg",
+      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry"
+    },
+    {
+      "id": 1,
+      "name": "Suzuki Gixxer",
+      "image": "image/gixxer.jpg",
+      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce"
+    },
+    {
+      "id": 2,
+      "name": "Kawasaki Z800",
+      "image": "image/kawasaki-z80.jpg",
+      "description": "India Kawasaki Motors launched the Z800 for the Indian market, it  is the second motorcycle from Kawasaki’s ‘Z’ family after the Z1000 and sixth from the company’s portfolio to be officially launched in India. The first few lot of this motorcycle came through the completely-built-up (CBU) route while now they come through the completely-knocked-down (CKD) route from Thailand."
+    },
+    {
+      "id": 3,
+      "name": "Honda Hornet 2.0",
+      "image": "image/hornet.jpg",
+      "description": "Honda Hornet 2.0 is a commuter bike available in 2 variants in India. Its lowest version starts from a price of ₹1,28,384 (ex-showroom) and the top version from a price of ₹1,30,385 (ex-showroom). Honda Hornet 2.0 generates 17.03 bhp of power and 16.1 nm of torque from its 184.4cc engine. Single cylinder engine of Honda Hornet 2.0 has a 5 speed manual gearbox. With both front and rear disc brakes, Honda Hornet 2.0 comes up with anti-locking braking system. This 142 kg bike is available in 5 colours."
+    },
+    {
+      "id": 4,
+      "name": "Royal Enfield 650",
+      "image": "image/himalayan-650.jpg",
+      "description": "The Himalayan is Royal Enfield’s only off-road focused motorcycle that is now BS6-compliant. As part of the update, the Himalayan gets three new colour schemes- Gravel Grey, Rock Red and Lake Blue along with the Snow White, Granite Black and Sleet Grey colours from the earlier model."
+    },
+    {
+      "id": 5,
+      "name": "KTM Duke 200",
+      "image": "image/ktm-duke-200.jpg",
+      "description": "KTM 200 Duke is a commuter bike available in 1 variant in India. Its price starts from ₹1,76,984 (ex-showroom). KTM 200 Duke generates 24.6 bhp of power and 19.2 nm of torque from its 199.5cc engine. Single cylinder engine of KTM 200 Duke has a 6 speed manual gearbox. With both front and rear disc brakes, KTM 200 Duke comes up with anti-locking braking system. This 159 kg bike is available in 2 colours."
+    }
+  ],
+  "comments": [
+    {
+      "id": 0,
+      "bikeId": 0,
+      "comment": "Classic 350 has its different class",
+      "author": "Joe",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "id": 1,
+      "bikeId": 1,
+      "comment": "Brum  Brum...!",
+      "author": "Yohan",
+      "date": "2012-10-16T17:57:28.556094Z"
+    },
+    {
+      "bikeId": 2,
+      "author": "Yashin",
+      "comment": "Dream  Bike",
+      "date": "2020-12-06T18:04:42.764Z",
+      "id": 2
+    },
+    {
+      "bikeId": 4,
+      "author": "Rohit",
+      "comment": "Ready for road trips in Himalaya\n",
+      "date": "2020-12-06T18:07:55.507Z",
+      "id": 3
+    },
+    {
+      "bikeId": 5,
+      "author": "Satish",
+      "comment": "All time fav",
+      "date": "2020-12-06T18:08:55.213Z",
+      "id": 4
+    },
+    {
+      "bikeId": 3,
+      "author": "Krish",
+      "comment": "It surely has horns... :)",
+      "date": "2020-12-06T18:16:42.482Z",
+      "id": 5
+    }
+  ]
+}
